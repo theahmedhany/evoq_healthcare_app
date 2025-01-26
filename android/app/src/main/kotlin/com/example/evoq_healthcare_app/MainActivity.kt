@@ -1,0 +1,5 @@
+package com.example.evoq_healthcare_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
