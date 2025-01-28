@@ -26,7 +26,7 @@ With its sleek and modern design, Evoq empowers users to effortlessly access cri
 https://github.com/user-attachments/assets/c533fdad-cdc6-4da2-a6ca-1751267c7d0a
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-evoq-activity-7289847873901363200-CABK?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
